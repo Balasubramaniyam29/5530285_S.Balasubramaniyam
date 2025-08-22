@@ -6,7 +6,3 @@
 
 !\[image alt](https://github.com/Balasubramaniyam29/5530285\_S.Balasubramaniyam/blob/main/certificate/GIT%20completion%20\_%2055)
 
-
-
-
-
