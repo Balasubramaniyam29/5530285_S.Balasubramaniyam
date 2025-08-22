@@ -1,7 +1,7 @@
-# 5530285_S.Balasubramaniyam
+# 5530285\_S.Balasubramaniyam
 
-![SDLC](https://github.com/Balasubramaniyam29/5530285_S.Balasubramaniyam/blob/main/SDLC/Completion_5530285.png?raw=true)
+!\[image alt](https://github.com/Balasubramaniyam29/5530285\_S.Balasubramaniyam/blob/main/Certificate/Completion\_5530285.png)
 
-![GIT](https://github.com/Balasubramaniyam29/5530285_S.Balasubramaniyam/blob/main/GIT/GIT%20completion%20_%205530285.png?raw=true)
+!\[image alt](https://github.com/Balasubramaniyam29/5530285\_S.Balasubramaniyam/blob/main/Certificate/GIT%20completion%20\_%205530285.png)
 
-![C prog](https://github.com/Balasubramaniyam29/5530285_S.Balasubramaniyam/blob/main/C%20Programming/e73d6e8e-b954-437f-b0f7-b3445e420881.png?raw=true)
+!\[image alt](https://github.com/Balasubramaniyam29/5530285\_S.Balasubramaniyam/blob/main/certificate/GIT%20completion%20\_%2055)
